@@ -1,2 +1,10 @@
-chat.yap
-bank.sigma
+chat.yap - communication
+bank.sigma - communication
+yap.yap - game
+ugly.web - tutorials
+watch.it - entertainment
+admin.dev - bio
+creeperita.it - bio
+pnl-lokzz.dev - bio?
+astral.rizz - bio
+dagrid.uwu - bio
